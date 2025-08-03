@@ -86,7 +86,7 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y ex
 - **Desarrollador Backend** - Consultora DEF (2021 - 2022)
 
 ### 🎓 Educación
-- **Ingeniería en Sistemas** - Universidad Nacional
+- **Ingeniería en Sistemas** - Universidad Mayor de San Simon
 - **Certificación AWS** - Amazon Web Services
 - **Certificación React** - Meta
 
@@ -125,7 +125,7 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y ex
 ## 📫 Contacto
 
 <div align="center">
-  <a href="mailto:tu-email@ejemplo.com">
+  <a href="mailto:edmilzon.luna@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/tu-perfil">
@@ -143,7 +143,6 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y ex
 
 - 🎮 Me encanta jugar videojuegos en mi tiempo libre
 - ☕ Soy un adicto al café (¡3 tazas al día mínimo!)
-- 🌍 He trabajado en proyectos para 5 países diferentes
 - 📚 Leo al menos 2 libros técnicos por mes
 - 🎵 Programo mejor escuchando música electrónica
 
