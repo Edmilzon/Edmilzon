@@ -1,169 +1,161 @@
-# 👨‍💻 Edmilzon Tudela
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Edmilzon;Full+Stack+Developer;C%C3%B3digo+que+transforma+ideas;Arquitecto+de+soluciones" alt="Typing SVG" />
-</div>
+# Edmilzon Tudela
 
 <p align="center">
-  <a href="https://github.com/Edmilzon"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:edmilzon.luna@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/edmilzon-tudela-5ab03b40b"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/EdmilzonLT"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=480&lines=Full+Stack+Developer;C%C3%B3digo+que+transforma+ideas;Arquitecto+de+soluciones;NestJS+%C2%B7+Next.js+%C2%B7+TypeScript" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/Edmilzon"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:edmilzon.luna@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/edmilzon-tudela-5ab03b40b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/EdmilzonLT"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
 
-## 🚀 Sobre mí
+<hr />
 
-Full Stack Developer de **Cochabamba, Bolivia**. Estudiante de **Ingeniería en Sistemas** en la **Universidad Mayor de San Simón (UMSS)**.
+## Sobre mi
 
-Me apasiona transformar ideas en soluciones escalables. Trabajo con **NestJS**, **Next.js**, **Spring Boot**, **TypeScript**, **Python** y **Java** — mis lenguajes favoritos. En el móvil desarrollo con **Flutter** y **React Native**.
+Full Stack Developer de **Cochabamba, Bolivia**. Estudiante de **Ingenieria en Sistemas** en la **Universidad Mayor de San Simon (UMSS)**.
 
-Soy un **purista de la arquitectura de software**: hexagonal, por capas, DDD, clean architecture. También soy **experto en Linux** (usuario de Arch Linux, administración de servidores) y **DevOps** con despliegues en AWS, Vercel, Railway y Render.
+Transformo ideas en soluciones escalables con **NestJS**, **Next.js**, **Spring Boot**, **TypeScript**, **Python** y **Java**. En el movil desarrollo con **Flutter** y **React Native**.
 
----
+Purista de la **arquitectura de software**: hexagonal, por capas, DDD, clean architecture. **Experto en Linux** (Arch Linux, administracion de servidores) y **DevOps** con despliegues en AWS, Vercel, Railway y Render.
 
-## 🛠️ Tecnologías y Herramientas
+<hr />
+
+## Tecnologias y Herramientas
 
 ### Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
 
 ### Backend
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
 
 ### Mobile
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
 
 ### Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" />
 
 ### DevOps & Cloud
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 
 ### Sistemas
-![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 
----
+<hr />
 
-## 📐 Arquitectura de Software
+## Arquitectura de Software
 
-Soy un apasionado por el diseño de software bien estructurado. Aplico principios de **arquitectura limpia**, **DDD**, **arquitectura hexagonal** y **por capas** en todos mis proyectos. Creo que un código bien arquitectado es la base de cualquier sistema escalable y mantenible.
+Apasionado por el diseno de software bien estructurado. Aplico principios de arquitectura limpia, DDD, hexagonal y por capas en todos mis proyectos.
 
 - **Hexagonal** / Puertos y Adaptadores
 - **Clean Architecture** / DDD
 - **Arquitectura por Capas**
-- **Patrones de Diseño** (GoF, SOLID, GRASP)
+- **Patrones de Diseno** (GoF, SOLID, GRASP)
 - **Principios SOLID**
 
----
+<hr />
 
-## 📊 Estadísticas de GitHub
+## Estadisticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edmilzon&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edmilzon&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Edmilzon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edmilzon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edmilzon&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edmilzon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
----
+<hr />
 
-## 🎯 Proyectos Destacados
+## Proyectos Destacados
 
-### 🥗 FoodSave
-*App contra el desperdicio de alimentos*
-Conecta restaurantes con comida sobrante a personas que la compran con descuento, evitando el desperdicio.
+### FoodSave
+App contra el desperdicio de alimentos. Conecta restaurantes con comida sobrante a personas que la compran con descuento.
 - **Stack**: Flutter (Dart) + NestJS + PostgreSQL
 - **Estado**: En desarrollo activo
-- [Frontend (Flutter)](https://github.com/Edmilzon/reduccion_desperdicio_alimentos) • [Backend (NestJS)](https://github.com/Edmilzon/reduccion_desperdicio_backend)
+- [Frontend (Flutter)](https://github.com/Edmilzon/reduccion_desperdicio_alimentos) | [Backend (NestJS)](https://github.com/Edmilzon/reduccion_desperdicio_backend)
 
-### 🎓 Sistema de Becas UMSS
-*Plataforma de inscripciones universitarias*
-Sistema completo de gestión de becas para la Universidad Mayor de San Simón. Automatiza el proceso de postulación, revisión y asignación de becas.
+### Sistema Becas UMSS
+Plataforma de inscripciones universitarias para la gestion de becas en la UMSS. Automatiza postulacion, revision y asignacion.
 - **Stack**: NestJS + Next.js + PostgreSQL
-- **Duración**: 1 año como Full Stack Developer
+- **Duracion**: 1 ano como Full Stack Developer
 
-### 🍽️ Restaurant App
-*Aplicación de pedidos para restaurantes*
-App móvil para que clientes realicen pedidos desde su mesa, con gestión de menú, carrito y notificaciones en tiempo real.
+### Restaurant App
+App movil de pedidos para restaurantes. Los clientes realizan pedidos desde la mesa con gestion de menu, carrito y notificaciones.
 - **Stack**: React Native + Spring Boot + PostgreSQL
 
-### 🐾 PetFinder
-*Buscador web de mascotas perdidas*
-Plataforma para reportar y buscar mascotas perdidas, con filtros por ubicación, especie y características.
+### PetFinder
+Buscador web de mascotas perdidas. Plataforma para reportar y buscar mascotas con filtros por ubicacion, especie y caracteristicas.
 - **Stack**: Python + Flask
 - [Ver repositorio](https://github.com/Edmilzon/search_web)
 
-### 📚 Curso Aprendizaje Python
-*Plataforma educativa interactiva*
-Plataforma para enseñar Python desde cero con ejercicios prácticos, challenges y seguimiento de progreso.
+### Curso Aprendizaje Python
+Plataforma educativa interactiva para ensenar Python con ejercicios practicos, challenges y seguimiento de progreso.
 - **Stack**: Spring Boot + React + PostgreSQL
 
-### 📱 Gestión de Productos
-*App móvil de inventario*
-Aplicación CRUD para gestión de productos, stock y categorías, con interfaz intuitiva y sincronización en tiempo real.
+### Gestion de Productos
+App movil CRUD para gestion de inventario, stock y categorias con interfaz intuitiva y sincronizacion en tiempo real.
 - **Stack**: React Native
 
-### 😊 EmotionDetect
-*Detección de emociones vía NLP*
-Sistema de inteligencia artificial que analiza texto y detecta el estado emocional del usuario usando procesamiento de lenguaje natural.
+### EmotionDetect
+Sistema de IA que analiza texto y detecta el estado emocional del usuario usando procesamiento de lenguaje natural.
 - **Stack**: Python + Machine Learning
 - [Ver repositorio](https://github.com/Edmilzon/detecccion_emocion)
 
-### 🤖 Proyecto IA
-*Modelo de inteligencia artificial*
-Proyecto de IA aplicada con modelos de machine learning para resolución de problemas del mundo real.
+### Proyecto IA
+Modelo de inteligencia artificial aplicada con machine learning para resolucion de problemas del mundo real.
 - **Stack**: Python + ML
 
----
+<hr />
 
-## 💼 Experiencia Freelance
+## Experiencia Freelance
 
-| Proyecto | Rol | Tecnologías | Duración |
+| Proyecto | Rol | Tecnologias | Duracion |
 |---|---|---|---|
-| Sistema Becas UMSS | Full Stack Developer | NestJS, Next.js, PostgreSQL | 1 año |
+| Sistema Becas UMSS | Full Stack Developer | NestJS, Next.js, PostgreSQL | 1 ano |
 | App Restaurante (Pedidos) | Mobile Developer | React Native, Spring Boot, PostgreSQL | — |
 | Curso Aprendizaje Python | Developer / Instructor | Spring Boot, React, PostgreSQL | — |
-| App Gestión de Productos | Mobile Developer | React Native | — |
+| App Gestion de Productos | Mobile Developer | React Native | — |
 
----
+<hr />
 
-## 🎓 Educación
+## Educacion
 
-- **Ingeniería en Sistemas** — Universidad Mayor de San Simón (UMSS), Cochabamba, Bolivia
+- **Ingenieria en Sistemas** — Universidad Mayor de San Simon (UMSS), Cochabamba, Bolivia
 
----
+<hr />
 
-## 📈 Habilidades Técnicas
+## Habilidades Tecnicas
 
 ### Avanzado
 - TypeScript / JavaScript
@@ -183,7 +175,7 @@ Proyecto de IA aplicada con modelos de machine learning para resolución de prob
 - PostgreSQL / MongoDB
 - PHP
 
-### Básico
+### Basico
 - Kotlin
 - C#
 - Go
@@ -191,50 +183,54 @@ Proyecto de IA aplicada con modelos de machine learning para resolución de prob
 - Kubernetes
 - Machine Learning
 
----
+<hr />
 
-## 🤝 Colaboración
+## Colaboracion
 
-Me encanta colaborar en proyectos desafiantes. Si tienes una idea, un proyecto open-source o necesitas un dev para algo interesante, hablemos.
+Si tienes un proyecto desafiante, una idea open-source o necesitas un developer para algo interesante, hablemos.
 
 Busco colaborar en:
-- Proyectos de código abierto
+- Proyectos de codigo abierto
 - Apps web/mobile con arquitectura limpia
 - Herramientas de desarrollo y DevOps
 - Proyectos de IA/ML
 
----
+<hr />
 
-## 📫 Contacto
+## Contacto
 
-<div align="center">
+<p align="center">
   <a href="mailto:edmilzon.luna@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/edmilzon.luna@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/edmilzon-tudela-5ab03b40b">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/in/edmilzon--tudela--5ab03b40b-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/EdmilzonLT">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/@EdmilzonLT-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
+</p>
+
+<p align="center">
   <a>
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio (próximamente)" />
+    <img src="https://img.shields.io/badge/Portfolio-Proximamente-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
-</div>
+</p>
 
----
+<hr />
 
-## 🎉 Fun Facts
+## Datos
 
-- 🐧 Usuario de **Arch Linux** (sí, el meme es cierto, lo menciono en cada oportunidad)
-- ☕ Sobrevivo a base de café mientras debuggeo
-- 🏗️ Me apasiona discutir sobre arquitectura de software más de lo que debería
-- 🎮 Cuando no programo, estoy jugando algo o aprendiendo algo nuevo
-- 📚 Leo sobre tecnología y arquitectura todo el tiempo
+- Usuario de **Arch Linux** (si, el meme es cierto, lo menciono en cada oportunidad)
+- Sobrevivo a base de cafe mientras debuggeo
+- Me apasiona discutir sobre arquitectura de software mas de lo que deberia
+- Cuando no programo, estoy jugando algo o aprendiendo algo nuevo
+- Leo sobre tecnologia y arquitectura todo el tiempo
 
----
+<hr />
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Edmilzon&style=flat-square&color=blue" alt="Profile Views" />
-  <p>⚡ Código que transforma ideas en soluciones ⚡</p>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Edmilzon&style=flat-square&color=6366F1" alt="Profile Views" />
+  <br />
+  <strong>Codigo que transforma ideas en soluciones</strong>
+</p>
