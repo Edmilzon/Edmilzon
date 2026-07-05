@@ -95,7 +95,7 @@ Apasionado por el diseno de software bien estructurado. Aplico principios de arq
 
 ## Proyectos Destacados
 
-### 🍽️ Eco Bocado (FoodSave)
+### Eco Bocado (FoodSave)
 > App contra el desperdicio de alimentos. Conecta restaurantes con comida sobrante a personas que la compran con descuento.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -111,7 +111,7 @@ Apasionado por el diseno de software bien estructurado. Aplico principios de arq
 
 ---
 
-### 🎓 Sistema Becas UMSS
+### Sistema Becas UMSS
 > Plataforma de inscripciones universitarias para la gestión de becas PBI en la UMSS. Automatiza postulación, revisión y asignación.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -123,7 +123,7 @@ Apasionado por el diseno de software bien estructurado. Aplico principios de arq
 
 ---
 
-### 📚 Plataforma Cursos
+### Plataforma Cursos
 > Plataforma educativa con roles (estudiante, profesor, libre), gamificación, progreso y cursos de todo tipo.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -135,7 +135,7 @@ Apasionado por el diseno de software bien estructurado. Aplico principios de arq
 
 ---
 
-### 🐍 Plataforma Educativa Python
+### Plataforma Educativa Python
 > Curso interactivo de Python con ejercicios prácticos, challenges y seguimiento de progreso.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -146,7 +146,7 @@ Apasionado por el diseno de software bien estructurado. Aplico principios de arq
 
 ---
 
-### 🫙 admi-ventas (Mermeladas Artesanales)
+### admi-ventas (Mermeladas Artesanales)
 > App web de venta de mermeladas artesanales con autenticación, catálogo, carrito de compras, pagos y panel de administración.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -158,7 +158,7 @@ Apasionado por el diseno de software bien estructurado. Aplico principios de arq
 
 ---
 
-### 🚗 searchCar (Alquiler de Autos)
+### searchCar (Alquiler de Autos)
 > Plataforma de alquiler de vehículos con búsqueda, reservas y gestión de flota.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -169,7 +169,7 @@ Apasionado por el diseno de software bien estructurado. Aplico principios de arq
 
 ---
 
-### 🛒 proyect_mercado (E-commerce)
+### proyect_mercado (E-commerce)
 > E-commerce multi-usuario para ventas entre distintos usuarios con gestión de productos y pedidos.
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -181,7 +181,7 @@ Apasionado por el diseno de software bien estructurado. Aplico principios de arq
 
 ---
 
-### 🤖 EmotionDetect
+### EmotionDetect
 > Chatbot que detecta el estado emocional del usuario en texto usando K-means, TF-IDF y aprendizaje no supervisado.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -192,7 +192,7 @@ Apasionado por el diseno de software bien estructurado. Aplico principios de arq
 
 ---
 
-### 🏅 oh_Sansi (Olimpiadas)
+### oh_Sansi (Olimpiadas)
 > Gestor de olimpiadas y competiciones: registro de medallas, niveles, categorías y participantes.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -202,7 +202,7 @@ Apasionado por el diseno de software bien estructurado. Aplico principios de arq
 
 ---
 
-### 💰 Calculadora Flujos de Efectivo
+### Calculadora Flujos de Efectivo
 > Sistema de gestión contable que calcula flujos de efectivo y analiza proyectos financieros.
 
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
@@ -212,7 +212,7 @@ Apasionado por el diseno de software bien estructurado. Aplico principios de arq
 
 ---
 
-### 📡 User Blog API
+### User Blog API
 > API REST con 4 entidades relacionadas (usuarios, roles, blogs, artículos) con Spring Boot + JPA.
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
@@ -223,7 +223,7 @@ Apasionado por el diseno de software bien estructurado. Aplico principios de arq
 
 ---
 
-### ❌ Tres en Raya IA
+### Tres en Raya IA
 > Juego con 2 modos de IA: algoritmo Minimax (invencible) y búsqueda en anchura (BFS). Incluye juego del laberinto.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -233,7 +233,7 @@ Apasionado por el diseno de software bien estructurado. Aplico principios de arq
 
 ---
 
-### 🐶 PetFinder
+### PetFinder
 > Buscador semántico de mascotas perdidas via SPARQL sobre ontología RDF/OWL con soporte ES/EN.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -246,92 +246,94 @@ Apasionado por el diseno de software bien estructurado. Aplico principios de arq
 
 ## Todos los repositorios
 
-### 🌐 Full Stack
-- [plataforma_cursos](https://github.com/Edmilzon/plataforma_cursos_frontend) — Frontend (Next.js) + [Backend](https://github.com/Edmilzon/plataforma_cursos_backend) (NestJS)
+### Full Stack
+| Repositorio | Stack |
+|---|---|
+| [plataforma_cursos](https://github.com/Edmilzon/plataforma_cursos_frontend) + [Backend](https://github.com/Edmilzon/plataforma_cursos_backend) | Next.js + NestJS + PostgreSQL |
 
-### ⚙️ Backend APIs
-- [user_blog_backend](https://github.com/Edmilzon/user_blog_backend) — Spring Boot + JPA + PostgreSQL
-- [loginRegister-backend](https://github.com/Edmilzon/loginRegister-backend) — Spring Boot
-- [loginRegister-backend-nestjs](https://github.com/Edmilzon/loginRegister-backend-nestjs) — NestJS
-- [oh_Sansi_backend](https://github.com/Edmilzon/oh_Sansi_backend) — PHP Laravel
+### Backend APIs
+| Repositorio | Stack |
+|---|---|
+| [user_blog_backend](https://github.com/Edmilzon/user_blog_backend) | Spring Boot + JPA + PostgreSQL |
+| [loginRegister-backend](https://github.com/Edmilzon/loginRegister-backend) | Spring Boot |
+| [loginRegister-backend-nestjs](https://github.com/Edmilzon/loginRegister-backend-nestjs) | NestJS |
+| [oh_Sansi_backend](https://github.com/Edmilzon/oh_Sansi_backend) | PHP + Laravel |
 
-### 🎨 Frontend
-- [loginRegister-frontend-vue](https://github.com/Edmilzon/loginRegister-frontend-vue) — Vue.js
-- [loginRegister-frontend-nextjs](https://github.com/Edmilzon/loginRegister-frontend-nextjs) — Next.js
-- [Calculadora_flujos_efectivo_astro](https://github.com/Edmilzon/Calculadora_flujos_efectivo_astro) — Astro
-- [Landin_gelatina_de_pata](https://github.com/Edmilzon/Landin_gelatina_de_pata) — Landing page
+### Frontend
+| Repositorio | Stack |
+|---|---|
+| [loginRegister-frontend-vue](https://github.com/Edmilzon/loginRegister-frontend-vue) | Vue.js |
+| [loginRegister-frontend-nextjs](https://github.com/Edmilzon/loginRegister-frontend-nextjs) | Next.js |
+| [Calculadora_flujos_efectivo_astro](https://github.com/Edmilzon/Calculadora_flujos_efectivo_astro) | Astro |
+| [Landin_gelatina_de_pata](https://github.com/Edmilzon/Landin_gelatina_de_pata) | Landing page |
 
-### 📱 Mobile
-- [pizarra_digital](https://github.com/Edmilzon/pizarra_digital) — APK Android para tablet
+### Mobile
+| Repositorio | Stack |
+|---|---|
+| [pizarra_digital](https://github.com/Edmilzon/pizarra_digital) | APK Android para tablet |
 
-### 🖥️ Java / Desktop
-- [Control_voz_gesto_java](https://github.com/Edmilzon/Control_voz_gesto_java) — Java Swing + OpenCV (voz + gestos)
-- [Detectar_videos_imagen_java](https://github.com/Edmilzon/Detectar_videos_imagen_java) — Java + OpenCV (vision artificial)
+### Java / Desktop
+| Repositorio | Stack |
+|---|---|
+| [Control_voz_gesto_java](https://github.com/Edmilzon/Control_voz_gesto_java) | Java Swing + OpenCV |
+| [Detectar_videos_imagen_java](https://github.com/Edmilzon/Detectar_videos_imagen_java) | Java + OpenCV |
 
-### 🐍 Python / IA
-- [detecccion_emocion](https://github.com/Edmilzon/detecccion_emocion) — K-means + TF-IDF
-- [Tres_en_Raya_Proyct_IA](https://github.com/Edmilzon/Tres_en_Raya_Proyct_IA) — Minimax + BFS
-- [search_web](https://github.com/Edmilzon/search_web) — SPARQL / RDF
-- [panel_digital](https://github.com/Edmilzon/panel_digital) — Pizarra transparente en Python
+### Python / IA
+| Repositorio | Stack |
+|---|---|
+| [detecccion_emocion](https://github.com/Edmilzon/detecccion_emocion) | K-means + TF-IDF + NLP |
+| [Tres_en_Raya_Proyct_IA](https://github.com/Edmilzon/Tres_en_Raya_Proyct_IA) | Minimax + BFS |
+| [search_web](https://github.com/Edmilzon/search_web) | SPARQL / RDF |
+| [panel_digital](https://github.com/Edmilzon/panel_digital) | Pizarra transparente (Python) |
 
-### 🛠️ Herramientas
-- [conta_calculator](https://github.com/Edmilzon/conta_calculator) — Libro mayor, diario y contabilidad
-- [git](https://github.com/Edmilzon/git) — Repositorio para ensenar Git/GitHub
+### Herramientas
+| Repositorio | Stack |
+|---|---|
+| [conta_calculator](https://github.com/Edmilzon/conta_calculator) | Libro mayor, diario y contabilidad |
+| [git](https://github.com/Edmilzon/git) | Enseñanza de Git/GitHub |
 
-### ⚠️ Experimentales
-- [clercl-NextJS-frontend](https://github.com/Edmilzon/clercl-NextJS-frontend) — Integracion con Clerk (incompleto)
-- [notebook_personalized](https://github.com/Edmilzon/notebook_personalized) — Version personalizada (abandonado)
+### Experimentales
+| Repositorio | Estado |
+|---|---|
+| [clercl-NextJS-frontend](https://github.com/Edmilzon/clercl-NextJS-frontend) | Integracion con Clerk (incompleto) |
+| [notebook_personalized](https://github.com/Edmilzon/notebook_personalized) | Version personalizada (abandonado) |
 
 <hr />
 
 ## Experiencia Freelance
 
-| Proyecto | Rol | Tecnologias | Duracion |
+| Proyecto | Rol | Stack | Duracion |
 |---|---|---|---|
-| Sistema Becas UMSS (PBI) | Full Stack Developer | NestJS, Next.js, PostgreSQL | 1 ano |
-| Plataforma Cursos | Full Stack Developer | Next.js, NestJS, PostgreSQL | — |
-| Curso Aprendizaje Python | Developer / Instructor | Next.js, NestJS, PostgreSQL | — |
-| App Mermeladas (admi-ventas) | Full Stack Developer | Next.js, TypeScript, Tailwind | — |
-| searchCar (Alquiler Autos) | Full Stack Developer | Next.js, TypeScript | — |
-| proyect_mercado (E-commerce) | Full Stack Developer | NestJS, TypeScript, PostgreSQL | — |
-| oh_Sansi (Olimpiadas) | Backend Developer | PHP, Laravel | — |
-| Eco Bocado (FoodSave) | Mobile + Backend | Flutter, NestJS, PostgreSQL | — |
+| Sistema Becas UMSS (PBI) | Full Stack Developer | NestJS · Next.js · PostgreSQL | 1 ano |
+| Plataforma Cursos | Full Stack Developer | Next.js · NestJS · PostgreSQL | ~8 meses |
+| Curso Aprendizaje Python | Developer / Instructor | Next.js · NestJS · PostgreSQL | ~6 meses |
+| admi-ventas (Mermeladas) | Full Stack Developer | Next.js · TypeScript · Tailwind | ~4 meses |
+| searchCar (Alquiler Autos) | Full Stack Developer | Next.js · TypeScript | ~3 meses |
+| proyect_mercado (E-commerce) | Full Stack Developer | NestJS · TypeScript · PostgreSQL | ~5 meses |
+| oh_Sansi (Olimpiadas) | Backend Developer | PHP · Laravel | ~3 meses |
+| Eco Bocado (FoodSave) | Mobile + Backend | Flutter · NestJS · PostgreSQL | En desarrollo |
 
 <hr />
 
 ## Educacion
 
-- **Ingenieria en Sistemas** — Universidad Mayor de San Simon (UMSS), Cochabamba, Bolivia
+| Titulo | Institucion | Ubicacion | Estado |
+|---|---|---|---|
+| Ingenieria en Sistemas | Universidad Mayor de San Simon (UMSS) | Cochabamba, Bolivia | En curso |
 
 <hr />
 
 ## Habilidades Tecnicas
 
-### Avanzado
-- TypeScript / JavaScript
-- Java (Spring Boot)
-- Python
-- NestJS / Node.js
-- Linux (Arch Linux)
-- Arquitectura de Software (Hexagonal, DDD, Clean Architecture)
-- Docker / AWS / Vercel
-- Git / GitHub
+![Avanzado](https://img.shields.io/badge/Avanzado-22c55e?style=flat-square)
+![Intermedio](https://img.shields.io/badge/Intermedio-eab308?style=flat-square)
+![Basico](https://img.shields.io/badge/Básico-6366f1?style=flat-square)
 
-### Intermedio
-- React / Next.js
-- React Native
-- Flutter (Dart)
-- Vue.js
-- PostgreSQL / MongoDB
-- PHP
-
-### Basico
-- Kotlin
-- C#
-- Go
-- Rust
-- Kubernetes
-- Machine Learning
+| Nivel | Tecnologias |
+|---|---|
+| ![Avanzado](https://img.shields.io/badge/Avanzado-22c55e?style=flat-square) | TypeScript, JavaScript, Java (Spring Boot), Python, NestJS / Node.js, Linux (Arch Linux), Arquitectura de Software (Hexagonal, DDD, Clean Architecture), Docker / AWS / Vercel, Git / GitHub |
+| ![Intermedio](https://img.shields.io/badge/Intermedio-eab308?style=flat-square) | React / Next.js, React Native, Flutter (Dart), Vue.js, PostgreSQL / MongoDB, PHP |
+| ![Basico](https://img.shields.io/badge/Básico-6366f1?style=flat-square) | Kotlin, C#, Go, Rust, Kubernetes, Machine Learning |
 
 <hr />
 
@@ -362,8 +364,8 @@ Busco colaborar en:
 </p>
 
 <p align="center">
-  <a>
-    <img src="https://img.shields.io/badge/Portfolio-Proximamente-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  <a href="https://edmilzon.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-edmilzon.dev-6366F1?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
