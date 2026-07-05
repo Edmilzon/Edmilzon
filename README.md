@@ -364,8 +364,8 @@ Busco colaborar en:
 </p>
 
 <p align="center">
-  <a href="https://edmilzon.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-edmilzon.dev-6366F1?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  <a href="https://edmilzon-dev.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-edmilzon--dev.vercel.app-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
