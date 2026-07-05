@@ -1,0 +1,117 @@
+Poryectos de mi github 
+
+user_blog_backend : Es una API REST con 4 entidades relacionadas. Permite CRUD sobre usuarios, roles, blogs y artículos. Cada usuario puede tener un blog (1 a 1), múltiples artículos y roles asignados, y los artículos pertenecen a un usuario y un blog.
+Técnicamente: Spring Boot 3.2.2 + JPA/Hibernate + PostgreSQL, con endpoints REST en /user, /role, /blog y /article. La estructura de capas (Controllers → Services → Models/DTOs) está armada, pero la capa de repositorio y la lógica de negocio con base de datos están pendientes de implementar.
+
+Control_voz_gesto_java: Una aplicación de escritorio Java Swing que organiza objetos automáticamente en una cuadrícula con 6 patrones distintos (L, U, cuadrado, cruz, líneas horizontales/verticales separadas). Una vez organizados, podés mover los objetos por la cuadrícula usando teclado (WASD), voz en español (arriba, abajo, izquierda, derecha) o gestos de la mano detectados por cámara web con OpenCV.
+
+Detectar_videos_imagen_java: l proyecto es una aplicación Java de escritorio que usa OpenCV para visión por computadora. Tiene dos modos:
+Paquete 1 (CLI) — menú interactivo en consola para:
+- Detectar objetos en una imagen (contornos con umbral Otsu)
+- Detectar movimiento entre dos imágenes (diferencia de píxeles)
+- Detectar objetos en un video (por rango de color HSV + circularidad)
+- Detectar movimiento en un video (diferencia entre frames consecutivos)
+Paquete 2 (GUI + Cámara) — interfaz Swing para:
+- Grabación de video desde webcam con detección de rostros en tiempo real (Haar cascades)
+- Capturar fotos desde cámara
+- Comparar imágenes (template matching, momentos de Hu)
+- Umbralizado, desenfoque, conteo y extracción de rostros
+- Reconocimiento de voz con JSAPI para navegación por comandos de voz
+En resumen: es un toolbox de visión artificial con OpenCV, manejable desde terminal o interfaz gráfica.
+
+
+Landin_gelatina_de_pata: Proyecto de publicidad de genlatina de pata 
+
+searchCar-frontend : fronten de alquiler de autos 
+
+clercl-NextJS-frontend : Poryecto integrando clercl (  no salio bien y lo deje haci noams )
+
+loginRegister-backend: Prpyecto echo en sprint boot 
+
+loginRegister-frontend-vue : echo en vue
+
+loginRegister-backend-nestjs : echop en nestjs
+
+loginRegister-frontend-nextjs : eccho en nextjs
+
+searchCar-backend : backend de alquiler de autos 
+
+Calculadora_flujos_efectivo_astro : Sistema de gestion contable eficiente y facil de usar. 
+                    Calcula flujos de efectivo y analiza proyectos financieros.
+
+pizarra_digital: apk movil para tablet
+
+notebook_personalized : otra version pero ya con personalisaciones especificas(q lo abandone)
+
+proyect_mercado_backend :
+
+proyect_mercado_frontend : aplicacion encargado ambos de un ecomerce de ventas de distintos usuarios 
+
+admi-ventas-backend: 
+
+admi-ventas-frontend: Aplicacion de venta de mermeladas Mermeladas Artesanales - Frontend
+Aplicación web para la venta de mermeladas artesanales construida con Next.js 15, TypeScript y Tailwind CSS.
+
+🚀 Características
+Splash screen con logo de mermeladas y redirección automática
+Autenticación completa con registro e inicio de sesión
+Catálogo de mermeladas con imágenes y descripciones detalladas
+Página de detalle para cada mermelada con selector de cantidad
+Carrito de compras con persistencia local y contador
+Sistema de pagos integrado
+Diseño responsive con tema de mermeladas (colores ámbar/naranja)
+Arquitectura escalable con separación de responsabilidades 
+
+conta_calculator : aplicacion para sacar libro mayor libro diario y toda la parte contable 
+
+panel_digital : un tipo de pizzara digital transaparente echo en python 
+
+frontend_PBI : Echo en nextjs es donce trabaje casi un anio para registro de becarios de la umss de pbi 
+
+Tres_en_Raya_Proyct_IA : Menú Principal: Un lanzador central para seleccionar y ejecutar los diferentes proyectos.
+Juego Tres en Raya (Tic-Tac-Toe):
+IA con Algoritmo Minimax: Un oponente invencible que utiliza el algoritmo Minimax para determinar el movimiento óptimo en cada turno.
+IA con Búsqueda en Anchura (BFS): Un oponente que utiliza una estrategia basada en heurísticas y el algoritmo BFS para encontrar caminos ganadores o bloquear al jugador.
+Juego del Laberinto. echo todo en python 
+
+
+plataforma_educatica_python : este repositorio contiene tanto backend ciomo frointend ise una plataforma de curso el cual es especial,mentne para python esta echo con nextjs y nestjs y postgres es como una plataformad e cursos donde mide progresop y todo 
+
+
+
+
+detecccion_emocion: Detección de Emociones en Texto
+Este proyecto es un chatbot capaz de detectar el estado emocional del usuario a través de sus mensajes de texto.
+
+Chatbot de Emociones - Aprendizaje No Supervisado
+Sistema de chatbot que detecta emociones en textos usando K-means y TF-IDF (Aprendizaje No Supervisado).
+
+Características
+Aprendizaje No Supervisado (K-means con 30 clusters)
+Procesamiento de Lenguaje Natural (TF-IDF + limpieza de texto)
+Respuestas contextuales según emoción detectada
+Interfaz de chat en tiempo real
+Registro de conversaciones en archivos JSON 
+Configuración del Entorno ECHO EN PYRTHON 
+
+
+plataforma_cursos_backend: nestjs
+
+plataforma_cursos_frontend : nextjs Plataforma de cursos es para varios ususario de distitos roles estudainte profesor libre donde pueden dar cursos de todo tipo con gamaficacion y todo eso 
+
+oh_Sansi_backend : backendf en php l;aravel para olimpiadas es un gestior de oliminadas donde registra medallas diostintos nivels de competicion y etc etc 
+
+git: repositorio q uso para dar clasesd e github tengo desde la historia y todo alli 
+
+reduccion_desperdicio_alimentos : Eco Bocado — Reducción de Desperdicio de Alimentos
+App Flutter para conectar restaurantes con clientes a través de ofertas de última hora.
+
+reduccion_desperdicio_backend: Eco Bocado — Backend
+Manual de instalación y configuración del backend para la plataforma de reducción de desperdicio de alimentos.
+
+Stack: NestJS 11 + TypeScript + PostgreSQL + TypeORM + JWT
+
+search_web : Buscador Semántico de Mascotas
+Aplicación web de búsqueda semántica vía SPARQL sobre ontología RDF/OWL de mascotas (perros, gatos, razas, dueños).
+Soporta búsqueda en lenguaje natural, razonamiento OWL, enriquecimiento con DBpedia e internacionalización ES/EN. en python 
+

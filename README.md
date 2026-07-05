@@ -99,42 +99,112 @@ Apasionado por el diseno de software bien estructurado. Aplico principios de arq
 
 ## Proyectos Destacados
 
-### FoodSave
+### Eco Bocado (FoodSave)
 App contra el desperdicio de alimentos. Conecta restaurantes con comida sobrante a personas que la compran con descuento.
-- **Stack**: Flutter (Dart) + NestJS + PostgreSQL
+- **Stack**: Flutter (Dart) + NestJS + PostgreSQL + TypeORM + JWT
 - **Estado**: En desarrollo activo
 - [Frontend (Flutter)](https://github.com/Edmilzon/reduccion_desperdicio_alimentos) | [Backend (NestJS)](https://github.com/Edmilzon/reduccion_desperdicio_backend)
 
 ### Sistema Becas UMSS
-Plataforma de inscripciones universitarias para la gestion de becas en la UMSS. Automatiza postulacion, revision y asignacion.
-- **Stack**: NestJS + Next.js + PostgreSQL
+Plataforma de inscripciones universitarias para la gestion de becas PBI en la UMSS. Automatiza postulacion, revision y asignacion.
+- **Stack**: Next.js + NestJS + PostgreSQL
 - **Duracion**: 1 ano como Full Stack Developer
+- [Frontend](https://github.com/Edmilzon/frontend_PBI)
 
-### Restaurant App
-App movil de pedidos para restaurantes. Los clientes realizan pedidos desde la mesa con gestion de menu, carrito y notificaciones.
-- **Stack**: React Native + Spring Boot + PostgreSQL
+### Plataforma Cursos
+Plataforma educativa con roles (estudiante, profesor, libre), gamificacion, progreso y cursos de todo tipo.
+- **Stack**: Next.js + NestJS + PostgreSQL
+- [Frontend](https://github.com/Edmilzon/plataforma_cursos_frontend) | [Backend](https://github.com/Edmilzon/plataforma_cursos_backend)
 
-### PetFinder
-Buscador web de mascotas perdidas. Plataforma para reportar y buscar mascotas con filtros por ubicacion, especie y caracteristicas.
-- **Stack**: Python + Flask
-- [Ver repositorio](https://github.com/Edmilzon/search_web)
+### Plataforma Educativa Python
+Curso interactivo de Python con ejercicios practicos, challenges y seguimiento de progreso.
+- **Stack**: Next.js + NestJS + PostgreSQL
+- [Repositorio](https://github.com/Edmilzon/plataforma_educatica_python)
 
-### Curso Aprendizaje Python
-Plataforma educativa interactiva para ensenar Python con ejercicios practicos, challenges y seguimiento de progreso.
-- **Stack**: Spring Boot + React + PostgreSQL
+### admi-ventas (Mermeladas Artesanales)
+App web de venta de mermeladas con autenticacion, catalogo, carrito de compras, pagos y panel de administracion.
+- **Stack**: Next.js + TypeScript + Tailwind CSS
+- [Frontend](https://github.com/Edmilzon/admi-ventas-frontend) | [Backend](https://github.com/Edmilzon/admi-ventas-backend)
 
-### Gestion de Productos
-App movil CRUD para gestion de inventario, stock y categorias con interfaz intuitiva y sincronizacion en tiempo real.
-- **Stack**: React Native
+### searchCar (Alquiler de Autos)
+Plataforma de alquiler de vehiculos con busqueda, reservas y gestion de flota.
+- **Stack**: Next.js + TypeScript
+- [Frontend](https://github.com/Edmilzon/searchCar-frontend) | [Backend](https://github.com/Edmilzon/searchCar-backend)
+
+### proyect_mercado (E-commerce)
+E-commerce multi-usuario para ventas entre distintos usuarios con gestion de productos y pedidos.
+- **Stack**: TypeScript + NestJS + PostgreSQL
+- [Frontend](https://github.com/Edmilzon/proyect_mercado_frontend) | [Backend](https://github.com/Edmilzon/proyect_mercado_backend)
 
 ### EmotionDetect
-Sistema de IA que analiza texto y detecta el estado emocional del usuario usando procesamiento de lenguaje natural.
-- **Stack**: Python + Machine Learning
+Chatbot que detecta el estado emocional del usuario en texto usando K-means, TF-IDF y aprendizaje no supervisado.
+- **Stack**: Python + Machine Learning + NLP
 - [Ver repositorio](https://github.com/Edmilzon/detecccion_emocion)
 
-### Proyecto IA
-Modelo de inteligencia artificial aplicada con machine learning para resolucion de problemas del mundo real.
-- **Stack**: Python + ML
+### oh_Sansi (Olimpiadas)
+Gestor de olimpiadas y competiciones: registro de medallas, niveles, categorias y participantes.
+- **Stack**: PHP + Laravel
+- [Backend](https://github.com/Edmilzon/oh_Sansi_backend)
+
+### Calculadora Flujos de Efectivo
+Sistema de gestion contable que calcula flujos de efectivo y analiza proyectos financieros.
+- **Stack**: Astro + TypeScript
+- [Repositorio](https://github.com/Edmilzon/Calculadora_flujos_efectivo_astro)
+
+### User Blog API
+API REST con 4 entidades relacionadas (usuarios, roles, blogs, articulos) con Spring Boot + JPA.
+- **Stack**: Spring Boot 3.2 + JPA/Hibernate + PostgreSQL
+- [Repositorio](https://github.com/Edmilzon/user_blog_backend)
+
+### Tres en Raya IA
+Juego con 2 modos de IA: algoritmo Minimax (invencible) y busqueda en anchura (BFS). Incluye juego del laberinto.
+- **Stack**: Python + Algoritmos de IA
+- [Repositorio](https://github.com/Edmilzon/Tres_en_Raya_Proyct_IA)
+
+### PetFinder
+Buscador semantico de mascotas perdidas via SPARQL sobre ontologia RDF/OWL con soporte ES/EN.
+- **Stack**: Python + Flask + SPARQL
+- [Ver repositorio](https://github.com/Edmilzon/search_web)
+
+<hr />
+
+## Todos los repositorios
+
+### 🌐 Full Stack
+- [plataforma_cursos](https://github.com/Edmilzon/plataforma_cursos_frontend) — Frontend (Next.js) + [Backend](https://github.com/Edmilzon/plataforma_cursos_backend) (NestJS)
+
+### ⚙️ Backend APIs
+- [user_blog_backend](https://github.com/Edmilzon/user_blog_backend) — Spring Boot + JPA + PostgreSQL
+- [loginRegister-backend](https://github.com/Edmilzon/loginRegister-backend) — Spring Boot
+- [loginRegister-backend-nestjs](https://github.com/Edmilzon/loginRegister-backend-nestjs) — NestJS
+- [oh_Sansi_backend](https://github.com/Edmilzon/oh_Sansi_backend) — PHP Laravel
+
+### 🎨 Frontend
+- [loginRegister-frontend-vue](https://github.com/Edmilzon/loginRegister-frontend-vue) — Vue.js
+- [loginRegister-frontend-nextjs](https://github.com/Edmilzon/loginRegister-frontend-nextjs) — Next.js
+- [Calculadora_flujos_efectivo_astro](https://github.com/Edmilzon/Calculadora_flujos_efectivo_astro) — Astro
+- [Landin_gelatina_de_pata](https://github.com/Edmilzon/Landin_gelatina_de_pata) — Landing page
+
+### 📱 Mobile
+- [pizarra_digital](https://github.com/Edmilzon/pizarra_digital) — APK Android para tablet
+
+### 🖥️ Java / Desktop
+- [Control_voz_gesto_java](https://github.com/Edmilzon/Control_voz_gesto_java) — Java Swing + OpenCV (voz + gestos)
+- [Detectar_videos_imagen_java](https://github.com/Edmilzon/Detectar_videos_imagen_java) — Java + OpenCV (vision artificial)
+
+### 🐍 Python / IA
+- [detecccion_emocion](https://github.com/Edmilzon/detecccion_emocion) — K-means + TF-IDF
+- [Tres_en_Raya_Proyct_IA](https://github.com/Edmilzon/Tres_en_Raya_Proyct_IA) — Minimax + BFS
+- [search_web](https://github.com/Edmilzon/search_web) — SPARQL / RDF
+- [panel_digital](https://github.com/Edmilzon/panel_digital) — Pizarra transparente en Python
+
+### 🛠️ Herramientas
+- [conta_calculator](https://github.com/Edmilzon/conta_calculator) — Libro mayor, diario y contabilidad
+- [git](https://github.com/Edmilzon/git) — Repositorio para ensenar Git/GitHub
+
+### ⚠️ Experimentales
+- [clercl-NextJS-frontend](https://github.com/Edmilzon/clercl-NextJS-frontend) — Integracion con Clerk (incompleto)
+- [notebook_personalized](https://github.com/Edmilzon/notebook_personalized) — Version personalizada (abandonado)
 
 <hr />
 
@@ -142,10 +212,14 @@ Modelo de inteligencia artificial aplicada con machine learning para resolucion 
 
 | Proyecto | Rol | Tecnologias | Duracion |
 |---|---|---|---|
-| Sistema Becas UMSS | Full Stack Developer | NestJS, Next.js, PostgreSQL | 1 ano |
-| App Restaurante (Pedidos) | Mobile Developer | React Native, Spring Boot, PostgreSQL | — |
-| Curso Aprendizaje Python | Developer / Instructor | Spring Boot, React, PostgreSQL | — |
-| App Gestion de Productos | Mobile Developer | React Native | — |
+| Sistema Becas UMSS (PBI) | Full Stack Developer | NestJS, Next.js, PostgreSQL | 1 ano |
+| Plataforma Cursos | Full Stack Developer | Next.js, NestJS, PostgreSQL | — |
+| Curso Aprendizaje Python | Developer / Instructor | Next.js, NestJS, PostgreSQL | — |
+| App Mermeladas (admi-ventas) | Full Stack Developer | Next.js, TypeScript, Tailwind | — |
+| searchCar (Alquiler Autos) | Full Stack Developer | Next.js, TypeScript | — |
+| proyect_mercado (E-commerce) | Full Stack Developer | NestJS, TypeScript, PostgreSQL | — |
+| oh_Sansi (Olimpiadas) | Backend Developer | PHP, Laravel | — |
+| Eco Bocado (FoodSave) | Mobile + Backend | Flutter, NestJS, PostgreSQL | — |
 
 <hr />
 
