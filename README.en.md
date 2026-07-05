@@ -157,15 +157,16 @@ Passionate about **software architecture** (hexagonal, DDD, clean architecture, 
 
 ## Technical Skills
 
-![Advanced](https://img.shields.io/badge/Advanced-22c55e?style=flat-square)
-![Intermediate](https://img.shields.io/badge/Intermediate-eab308?style=flat-square)
-![Beginner](https://img.shields.io/badge/Beginner-6366f1?style=flat-square)
-
-| Level | Technologies |
+| Area | Technologies |
 |---|---|
-| ![Advanced](https://img.shields.io/badge/Advanced-22c55e?style=flat-square) | TypeScript, JavaScript, Java (Spring Boot), Python, NestJS / Node.js, PostgreSQL, MongoDB, Linux (Arch Linux), Docker, AWS, Vercel, Git / GitHub, Software Architecture (Hexagonal, DDD, Clean Architecture) |
-| ![Intermediate](https://img.shields.io/badge/Intermediate-eab308?style=flat-square) | React / Next.js, React Native, Flutter (Dart), Vue.js, MySQL, PHP |
-| ![Beginner](https://img.shields.io/badge/Beginner-6366f1?style=flat-square) | Kotlin, C#, Go, Rust, Kubernetes, Machine Learning |
+| **Backend** | NestJS, Spring Boot, Node.js, Express, Python, Java, PHP, Django |
+| **Frontend** | Next.js, React, Vue.js, Astro, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS |
+| **Mobile** | Flutter (Dart), React Native |
+| **Databases** | PostgreSQL, MongoDB, MySQL, Redis |
+| **DevOps & Cloud** | Docker, AWS, Vercel, Railway, Render, Linux (Arch Linux) |
+| **Architecture** | Hexagonal, DDD, Clean Architecture, SOLID, GoF Patterns |
+| **Tools** | Git, GitHub, OpenCV |
+| **Learning** | Kotlin, C#, Go, Rust, Kubernetes, Machine Learning |
 
 <hr />
 
