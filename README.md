@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <b>📖 English version → <a href="README.en.md">README.en.md</a></b>
+  <b> English version → <a href="README.en.md">README.en.md</a></b>
 </p>
 
 <hr />
@@ -30,7 +30,7 @@ Apasionado por la **arquitectura de software** (hexagonal, DDD, clean architectu
 
 ## Ahora mismo
 
-🚀 **Eco Bocado (FoodSave)** — APK en fase beta. **10 restaurantes registrados**, mapas por coordenadas y geolocalización. Conecta restaurantes con clientes para reducir el desperdicio de alimentos.
+ **Eco Bocado (FoodSave)** — APK en fase beta. **10 restaurantes registrados**, mapas por coordenadas y geolocalización. Conecta restaurantes con clientes para reducir el desperdicio de alimentos.
 
 <hr />
 
@@ -41,7 +41,7 @@ Apasionado por la **arquitectura de software** (hexagonal, DDD, clean architectu
 
 **Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Impacto:** ✅ Producción real durante **2 gestiones (2024-2025)** · **100+ estudiantes** procesados · Uso simultáneo de docentes
+**Impacto:**  Producción real durante **2 gestiones (2024-2025)** · **100+ estudiantes** procesados · Uso simultáneo de docentes
 
 [![Frontend](https://img.shields.io/badge/Frontend_🌐-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edmilzon/frontend_PBI)
 
@@ -52,7 +52,7 @@ Apasionado por la **arquitectura de software** (hexagonal, DDD, clean architectu
 
 **Stack:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![TypeORM](https://img.shields.io/badge/TypeORM-FE0802?style=flat-square&logo=typeorm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-**Impacto:** ✅ APK en beta · **10 restaurantes registrados** · Geolocalización integrada · Frontend + Backend desarrollados en solitario
+**Impacto:**  APK en beta · **10 restaurantes registrados** · Geolocalización integrada · Frontend + Backend desarrollados en solitario
 
 [![Frontend (Flutter)](https://img.shields.io/badge/Frontend_📱-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edmilzon/reduccion_desperdicio_alimentos)
 [![Backend (NestJS)](https://img.shields.io/badge/Backend_⚙️-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edmilzon/reduccion_desperdicio_backend)
@@ -64,7 +64,7 @@ Apasionado por la **arquitectura de software** (hexagonal, DDD, clean architectu
 
 **Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Impacto:** ✅ **20 cursos** publicados · **10 profesores** y **15 estudiantes** activos
+**Impacto:**  **20 cursos** publicados · **10 profesores** y **15 estudiantes** activos
 
 [![Frontend](https://img.shields.io/badge/Frontend_🌐-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edmilzon/plataforma_cursos_frontend)
 [![Backend](https://img.shields.io/badge/Backend_⚙️-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edmilzon/plataforma_cursos_backend)
@@ -76,7 +76,7 @@ Apasionado por la **arquitectura de software** (hexagonal, DDD, clean architectu
 
 **Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**Impacto:** ✅ Ventas reales procesadas · **2 productos** (distintos tamaños) · Pagos QR y efectivo · Versión web + APK
+**Impacto:**  Ventas reales procesadas · **2 productos** (distintos tamaños) · Pagos QR y efectivo · Versión web + APK
 
 [![Frontend](https://img.shields.io/badge/Frontend_🌐-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edmilzon/admi-ventas-frontend)
 [![Backend](https://img.shields.io/badge/Backend_⚙️-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edmilzon/admi-ventas-backend)
@@ -88,7 +88,7 @@ Apasionado por la **arquitectura de software** (hexagonal, DDD, clean architectu
 
 **Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**Impacto:** ⏱️ **6 meses de desarrollo** — el proyecto más extenso. Arquitectura con múltiples servicios de calificación.
+**Impacto:** ⏱ **6 meses de desarrollo** — el proyecto más extenso. Arquitectura con múltiples servicios de calificación.
 
 [![Frontend](https://img.shields.io/badge/Frontend_🌐-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edmilzon/searchCar-frontend)
 [![Backend](https://img.shields.io/badge/Backend_⚙️-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edmilzon/searchCar-backend)
@@ -100,7 +100,7 @@ Apasionado por la **arquitectura de software** (hexagonal, DDD, clean architectu
 
 **Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) · scikit-learn · NLP
 
-**Impacto:** ✅ 30 clusters emocionales · Chat en tiempo real · Registro automático de conversaciones
+**Impacto:**  30 clusters emocionales · Chat en tiempo real · Registro automático de conversaciones
 
 [![Repositorio](https://img.shields.io/badge/Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edmilzon/detecccion_emocion)
 
