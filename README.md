@@ -88,7 +88,7 @@ Apasionado por la **arquitectura de software** (hexagonal, DDD, clean architectu
 
 **Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**Impacto:** ⏱ **6 meses de desarrollo** — el proyecto más extenso. Arquitectura con múltiples servicios de calificación.
+**Impacto:**  **6 meses de desarrollo** — el proyecto más extenso. Arquitectura con múltiples servicios de calificación.
 
 [![Frontend](https://img.shields.io/badge/Frontend_🌐-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edmilzon/searchCar-frontend)
 [![Backend](https://img.shields.io/badge/Backend_⚙️-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edmilzon/searchCar-backend)
