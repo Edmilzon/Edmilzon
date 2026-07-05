@@ -95,72 +95,152 @@ Apasionado por el diseno de software bien estructurado. Aplico principios de arq
 
 ## Proyectos Destacados
 
-### Eco Bocado (FoodSave)
-App contra el desperdicio de alimentos. Conecta restaurantes con comida sobrante a personas que la compran con descuento.
-- **Stack**: Flutter (Dart) + NestJS + PostgreSQL + TypeORM + JWT
-- **Estado**: En desarrollo activo
-- [Frontend (Flutter)](https://github.com/Edmilzon/reduccion_desperdicio_alimentos) | [Backend (NestJS)](https://github.com/Edmilzon/reduccion_desperdicio_backend)
+### 🍽️ Eco Bocado (FoodSave)
+> App contra el desperdicio de alimentos. Conecta restaurantes con comida sobrante a personas que la compran con descuento.
 
-### Sistema Becas UMSS
-Plataforma de inscripciones universitarias para la gestion de becas PBI en la UMSS. Automatiza postulacion, revision y asignacion.
-- **Stack**: Next.js + NestJS + PostgreSQL
-- **Duracion**: 1 ano como Full Stack Developer
-- [Frontend](https://github.com/Edmilzon/frontend_PBI)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0802?style=flat-square&logo=typeorm&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Status](https://img.shields.io/badge/Status-En_Desarrollo_Activo-22c55e?style=flat-square)
 
-### Plataforma Cursos
-Plataforma educativa con roles (estudiante, profesor, libre), gamificacion, progreso y cursos de todo tipo.
-- **Stack**: Next.js + NestJS + PostgreSQL
-- [Frontend](https://github.com/Edmilzon/plataforma_cursos_frontend) | [Backend](https://github.com/Edmilzon/plataforma_cursos_backend)
+[![Frontend (Flutter)](https://img.shields.io/badge/Frontend_📱-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edmilzon/reduccion_desperdicio_alimentos)
+[![Backend (NestJS)](https://img.shields.io/badge/Backend_⚙️-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edmilzon/reduccion_desperdicio_backend)
 
-### Plataforma Educativa Python
-Curso interactivo de Python con ejercicios practicos, challenges y seguimiento de progreso.
-- **Stack**: Next.js + NestJS + PostgreSQL
-- [Repositorio](https://github.com/Edmilzon/plataforma_educatica_python)
+---
 
-### admi-ventas (Mermeladas Artesanales)
-App web de venta de mermeladas con autenticacion, catalogo, carrito de compras, pagos y panel de administracion.
-- **Stack**: Next.js + TypeScript + Tailwind CSS
-- [Frontend](https://github.com/Edmilzon/admi-ventas-frontend) | [Backend](https://github.com/Edmilzon/admi-ventas-backend)
+### 🎓 Sistema Becas UMSS
+> Plataforma de inscripciones universitarias para la gestión de becas PBI en la UMSS. Automatiza postulación, revisión y asignación.
 
-### searchCar (Alquiler de Autos)
-Plataforma de alquiler de vehiculos con busqueda, reservas y gestion de flota.
-- **Stack**: Next.js + TypeScript
-- [Frontend](https://github.com/Edmilzon/searchCar-frontend) | [Backend](https://github.com/Edmilzon/searchCar-backend)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Duration](https://img.shields.io/badge/Duración-1_año-6366f1?style=flat-square)
 
-### proyect_mercado (E-commerce)
-E-commerce multi-usuario para ventas entre distintos usuarios con gestion de productos y pedidos.
-- **Stack**: TypeScript + NestJS + PostgreSQL
-- [Frontend](https://github.com/Edmilzon/proyect_mercado_frontend) | [Backend](https://github.com/Edmilzon/proyect_mercado_backend)
+[![Frontend](https://img.shields.io/badge/Frontend_🌐-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edmilzon/frontend_PBI)
 
-### EmotionDetect
-Chatbot que detecta el estado emocional del usuario en texto usando K-means, TF-IDF y aprendizaje no supervisado.
-- **Stack**: Python + Machine Learning + NLP
-- [Ver repositorio](https://github.com/Edmilzon/detecccion_emocion)
+---
 
-### oh_Sansi (Olimpiadas)
-Gestor de olimpiadas y competiciones: registro de medallas, niveles, categorias y participantes.
-- **Stack**: PHP + Laravel
-- [Backend](https://github.com/Edmilzon/oh_Sansi_backend)
+### 📚 Plataforma Cursos
+> Plataforma educativa con roles (estudiante, profesor, libre), gamificación, progreso y cursos de todo tipo.
 
-### Calculadora Flujos de Efectivo
-Sistema de gestion contable que calcula flujos de efectivo y analiza proyectos financieros.
-- **Stack**: Astro + TypeScript
-- [Repositorio](https://github.com/Edmilzon/Calculadora_flujos_efectivo_astro)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-### User Blog API
-API REST con 4 entidades relacionadas (usuarios, roles, blogs, articulos) con Spring Boot + JPA.
-- **Stack**: Spring Boot 3.2 + JPA/Hibernate + PostgreSQL
-- [Repositorio](https://github.com/Edmilzon/user_blog_backend)
+[![Frontend](https://img.shields.io/badge/Frontend_🌐-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edmilzon/plataforma_cursos_frontend)
+[![Backend](https://img.shields.io/badge/Backend_⚙️-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edmilzon/plataforma_cursos_backend)
 
-### Tres en Raya IA
-Juego con 2 modos de IA: algoritmo Minimax (invencible) y busqueda en anchura (BFS). Incluye juego del laberinto.
-- **Stack**: Python + Algoritmos de IA
-- [Repositorio](https://github.com/Edmilzon/Tres_en_Raya_Proyct_IA)
+---
 
-### PetFinder
-Buscador semantico de mascotas perdidas via SPARQL sobre ontologia RDF/OWL con soporte ES/EN.
-- **Stack**: Python + Flask + SPARQL
-- [Ver repositorio](https://github.com/Edmilzon/search_web)
+### 🐍 Plataforma Educativa Python
+> Curso interactivo de Python con ejercicios prácticos, challenges y seguimiento de progreso.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+[![Repositorio](https://img.shields.io/badge/Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edmilzon/plataforma_educatica_python)
+
+---
+
+### 🫙 admi-ventas (Mermeladas Artesanales)
+> App web de venta de mermeladas artesanales con autenticación, catálogo, carrito de compras, pagos y panel de administración.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+
+[![Frontend](https://img.shields.io/badge/Frontend_🌐-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edmilzon/admi-ventas-frontend)
+[![Backend](https://img.shields.io/badge/Backend_⚙️-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edmilzon/admi-ventas-backend)
+
+---
+
+### 🚗 searchCar (Alquiler de Autos)
+> Plataforma de alquiler de vehículos con búsqueda, reservas y gestión de flota.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+[![Frontend](https://img.shields.io/badge/Frontend_🌐-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edmilzon/searchCar-frontend)
+[![Backend](https://img.shields.io/badge/Backend_⚙️-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edmilzon/searchCar-backend)
+
+---
+
+### 🛒 proyect_mercado (E-commerce)
+> E-commerce multi-usuario para ventas entre distintos usuarios con gestión de productos y pedidos.
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+[![Frontend](https://img.shields.io/badge/Frontend_🌐-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edmilzon/proyect_mercado_frontend)
+[![Backend](https://img.shields.io/badge/Backend_⚙️-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edmilzon/proyect_mercado_backend)
+
+---
+
+### 🤖 EmotionDetect
+> Chatbot que detecta el estado emocional del usuario en texto usando K-means, TF-IDF y aprendizaje no supervisado.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4A90D9?style=flat-square&logo=spacy&logoColor=white)
+
+[![Repositorio](https://img.shields.io/badge/Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edmilzon/detecccion_emocion)
+
+---
+
+### 🏅 oh_Sansi (Olimpiadas)
+> Gestor de olimpiadas y competiciones: registro de medallas, niveles, categorías y participantes.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+[![Backend](https://img.shields.io/badge/Backend_⚙️-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edmilzon/oh_Sansi_backend)
+
+---
+
+### 💰 Calculadora Flujos de Efectivo
+> Sistema de gestión contable que calcula flujos de efectivo y analiza proyectos financieros.
+
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+[![Repositorio](https://img.shields.io/badge/Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edmilzon/Calculadora_flujos_efectivo_astro)
+
+---
+
+### 📡 User Blog API
+> API REST con 4 entidades relacionadas (usuarios, roles, blogs, artículos) con Spring Boot + JPA.
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+[![Repositorio](https://img.shields.io/badge/Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edmilzon/user_blog_backend)
+
+---
+
+### ❌ Tres en Raya IA
+> Juego con 2 modos de IA: algoritmo Minimax (invencible) y búsqueda en anchura (BFS). Incluye juego del laberinto.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/Algoritmos_de_IA-6366f1?style=flat-square&logo=ai&logoColor=white)
+
+[![Repositorio](https://img.shields.io/badge/Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edmilzon/Tres_en_Raya_Proyct_IA)
+
+---
+
+### 🐶 PetFinder
+> Buscador semántico de mascotas perdidas via SPARQL sobre ontología RDF/OWL con soporte ES/EN.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SPARQL](https://img.shields.io/badge/SPARQL-003B57?style=flat-square&logo=sparql&logoColor=white)
+
+[![Repositorio](https://img.shields.io/badge/Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Edmilzon/search_web)
 
 <hr />
 
