@@ -6,6 +6,10 @@ Cochabamba, Bolivia · Systems Engineering student at UMSS (8th semester; expect
 
 [Portfolio](https://edmilzon-dev.vercel.app) · [LinkedIn](https://www.linkedin.com/in/edmilzon-tudela) · [Email](mailto:edmilzon.luna@gmail.com)
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,nestjs,flutter,dart,kotlin,postgres,git,github&perline=6" alt="Java, Spring, TypeScript, React, Next.js, NestJS, Flutter, Dart, Kotlin, PostgreSQL, Git and GitHub" />
+</p>
+
 **Versión en español:** [README.md](README.md)
 
 ## Profile
@@ -14,15 +18,13 @@ I build web and mobile applications for business workflows. I have contributed t
 
 ## Professional experience
 
-### Soft-Craft-Bol · Software Developer | 2026
+### Software Developer | 2026
 
 Contributed to management applications across pharmacy, auto parts and café operations, using Java, Spring Boot, React and TypeScript.
 
 - **Pharmacy:** built sales, partial-return and cancellation flows; also worked on purchasing, products, stock and batch management.
 - **Auto parts:** implemented product, stock-control and supplier-purchasing features.
 - **Café:** worked on batch management, ingredient assignment, stock, preparation and promotions.
-
-Some of this work is in private company repositories; this profile describes my contributions without publishing internal code.
 
 ## Featured projects
 

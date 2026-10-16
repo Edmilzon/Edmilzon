@@ -6,6 +6,10 @@ Cochabamba, Bolivia · Ingeniería en Sistemas en la UMSS (8.º semestre; egreso
 
 [Portafolio](https://edmilzon-dev.vercel.app) · [LinkedIn](https://www.linkedin.com/in/edmilzon-tudela) · [Correo](mailto:edmilzon.luna@gmail.com)
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,nestjs,flutter,dart,kotlin,postgres,git,github&perline=6" alt="Java, Spring, TypeScript, React, Next.js, NestJS, Flutter, Dart, Kotlin, PostgreSQL, Git y GitHub" />
+</p>
+
 **English version:** [README.en.md](README.en.md)
 
 ## Perfil
@@ -14,15 +18,13 @@ Desarrollo aplicaciones web y móviles para procesos de negocio. He contribuido 
 
 ## Experiencia profesional
 
-### Soft-Craft-Bol · Desarrollador de software | 2026
+### Desarrollador de software | 2026
 
 Contribuí a aplicaciones de gestión para los sectores de farmacia, autopartes y cafetería, trabajando con Java, Spring Boot, React y TypeScript.
 
 - **Farmacia:** desarrollé flujos de venta, devoluciones parciales y anulaciones; también trabajé en compras, productos, stock y lotes.
 - **Autopartes:** implementé funciones de productos, control de stock y compras a proveedores.
 - **Cafetería:** trabajé en gestión de lotes, asignación de insumos, stock, preparación y promociones.
-
-Parte del trabajo pertenece a repositorios privados de la empresa; aquí describo mis aportes sin publicar código interno.
 
 ## Proyectos destacados
 
